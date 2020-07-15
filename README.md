@@ -34,8 +34,9 @@ Statistics        Avg      Stdev        Max
   Throughput:    11.95MB/s
   ```
 
-## System specs
+## Environment
 
 - **CPU** Ryzen 5 2600
 - **RAM** 16GB DDR4-3200
-- **OS** Fedora 32 Workstation
+- **OS** Fedora 32 Workstation (5.7.8-200.fc32.x86_64)
+- **Rust** rustc 1.44.1 (c7087fe00 2020-06-17)
